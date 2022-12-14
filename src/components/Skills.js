@@ -3,9 +3,9 @@ import { SiReact , SiTailwindcss , SiJavascript} from "react-icons/si";
 
 const Skills = () => {
   return (
-    <section className='mt-28'>
-      <h1 className='font-extrabold text-[35px] mb-12 font-[lato] ml-32' >Framesworks I use</h1>
-      <div className='flex justify-around ml-32 mr-32'>
+    <section className='mt-16'>
+      <h1 className='font-extrabold text-[35px] mb-12 font-[lato] ml-32' >What i do</h1>
+      <div className='flex justify-around ml-32 mr-32 '>
         <div className='p-5'>
           <SiReact className='h-10 w-10 mb-4 text-[#61DAFB]'/>
           <h1 className='font-bold text-[20px] mb-3'>ReactJs</h1>
